@@ -68,8 +68,8 @@
 ## GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nongbu24&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub 통계" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nongbu24&layout=compact&theme=tokyonight&hide_border=true" alt="주로 사용한 언어" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nongbu24&theme=tokyonight" alt="GitHub 통계" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nongbu24&theme=tokyonight" alt="저장소 사용 언어" />
 </div>
 
 ## 3D Contribution Graph
